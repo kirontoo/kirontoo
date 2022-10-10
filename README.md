@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on [Atlantic Esports](https://www.atlanticesportsnj.com)
 - 🌱 I’m currently learning **Go**
-- 📝 I regularly write articles on [https://kirontoo.github.io/blog](https://kirontoo.github.io/blog)
 - ⚡ Fun fact **I make custom cables and build mechanical keyboards for fun!**
+<!-- - 📝 I regularly write articles on [https://kirontoo.github.io/blog](https://kirontoo.github.io/blog) -->
  
  ---
 <h2 align="center">Connect With Me 🤝</h2> 
