@@ -10,9 +10,6 @@
 <h2 align="center">Connect With Me 🤝</h2> 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 0.5rem;">
-<a href="https://github.com/kirontoo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/amyndang/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
