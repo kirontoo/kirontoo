@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Atlantic Esports](https://www.atlanticesportsnj.com)
 - 🌱 I’m currently learning **Go**
 - ⚡ Fun fact **I make custom cables and build mechanical keyboards for fun!**
-<!-- - 📝 I regularly write articles on [https://kirontoo.github.io/blog](https://kirontoo.github.io/blog) -->
+- 📝 I also blog sometimes...check it out at [blog.rxkiro.xyz](https://blog.rxkiro.xyz)
  
  ---
 <h2 align="center">Connect With Me 🤝</h2> 
