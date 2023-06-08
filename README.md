@@ -1,7 +1,7 @@
 <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
 <h1 align="center">Hi 👋, I'm Amy</h1>
 
-- 🔭 I’m currently working on [Atlantic Esports](https://www.atlanticesportsnj.com)
+- 🔭 I’m currently working on [Atlantic Esports](https://www.atlanticesportsnj.com) and [FilmDB](https://github.com/kirontoo/filmdb)
 - 🌱 I’m currently learning **Go**
 - ⚡ Fun fact **I make custom cables and build mechanical keyboards for fun!**
 - 📝 I also blog sometimes...check it out at [blog.rxkiro.xyz](https://blog.rxkiro.xyz)
