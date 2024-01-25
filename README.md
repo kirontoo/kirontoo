@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Atlantic Esports](https://www.atlanticesportsnj.com) and [FilmDB](https://github.com/kirontoo/filmdb)
 - 🌱 I’m currently learning **Go**
 - ⚡ Fun fact **I make custom cables and build mechanical keyboards for fun!**
-- 📝 I also blog sometimes...check it out at [blog.rxkiro.xyz](https://blog.rxkiro.xyz)
+- 📝 I also blog sometimes...check it out at [blog.amyndang.me](https://blog.amyndang.me)
  
  ---
 <h2 align="center">Connect With Me 🤝</h2> 
