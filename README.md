@@ -1,28 +1,14 @@
 <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
-<h1 align="center">Hi 👋, I'm Amy</h1>
+<h1 align="center">Hi 👋, I'm Amy Dang</h1>
 
 - 🔭 I’m currently working on [Atlantic Esports](https://www.atlanticesportsnj.com) and [FilmDB](https://github.com/kirontoo/filmdb)
 - 🌱 I’m currently learning **Go**
 - ⚡ Fun fact **I make custom cables and build mechanical keyboards for fun!**
-- 📝 I also blog sometimes...check it out at [blog.amyndang.me](https://blog.amyndang.me)
+- 📝 You can also check out my blog at: [blog.amyndang.me](https://blog.amyndang.me)
  
- ---
-<h2 align="center">Connect With Me 🤝</h2> 
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 0.5rem;">
-<a href="https://www.linkedin.com/in/amyndang/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/rwxamy" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:ndangamy@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div> 
 
 ---
-<h3 align="left">Framworks & Libraries:</h3>
+<h2 align="left">Framworks & Libraries:</h2>
 <p>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> 
@@ -32,7 +18,7 @@
     <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Languages & Tools:</h3>
+<h2 align="left">Languages & Tools:</h2>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
@@ -47,6 +33,6 @@
 </p>
 
 
-<h3 align="left">Databases:</h3>
+<h2 align="left">Databases:</h2>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
