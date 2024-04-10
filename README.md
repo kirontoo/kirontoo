@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amy Dang</h1>
 
 - 🔭 I’m currently working on [Atlantic Esports](https://www.atlanticesportsnj.com) and [FilmDB](https://github.com/kirontoo/filmdb)
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Backend development with Go**
 - ⚡ Fun fact **I make custom cables and build mechanical keyboards for fun!**
 - 📝 You can also check out my blog at: [blog.amyndang.me](https://blog.amyndang.me)
  
