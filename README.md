@@ -1,6 +1,8 @@
 <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
 <h1 align="center">Hi 👋, I'm Amy Dang</h1>
 
+- 🔭 I’m currently working on a [Astro Cody Blog Theme](https://github.com/kirontoo/astro-theme-cody)
+- ⚡ Fun fact **I make custom cables and build mechanical keyboards for fun!**
 <!--
 - 🔭 I’m currently working on [Atlantic Esports](https://www.atlanticesportsnj.com) and [FilmDB](https://github.com/kirontoo/filmdb)
 - 🌱 I’m currently learning **Backend development with Go**
